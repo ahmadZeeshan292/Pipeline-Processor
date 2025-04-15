@@ -69,7 +69,7 @@ This project implements a **pipelined processor** based on the **Von Neumann arc
 
 This diagram illustrates the complete pipelined processor with an integrated Floating Point ALU (FP_ALU).
 
-[Pipeline-Processor](Pipelined_processor_with_floatingpointalu.png)
+[Pipeline-Processor](Pipelined_processor_with_Floating_point_ALU)
 
 ## 📁 Project Structure
 
